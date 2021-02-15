@@ -18,7 +18,7 @@ params:
       - label: ponuda
         url: /blog/
         style: link
-      - label: Style Guide
+      - label: autori
         url: /style-guide/
         style: link
       - label: About
