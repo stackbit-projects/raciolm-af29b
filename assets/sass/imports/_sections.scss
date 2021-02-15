@@ -55,6 +55,10 @@
     font-size: 1.33333em;
     line-height: 1.5;
   }
+
+  .child-with-unknown-dimensions {
+  @include center;
+}
 }
 
 @media only screen and (max-width: 1000px) {
