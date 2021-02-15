@@ -15,7 +15,7 @@ params:
       - label: POčetna
         url: /
         style: link
-      - label: Blog
+      - label: ponuda
         url: /blog/
         style: link
       - label: Style Guide
