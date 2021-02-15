@@ -22,8 +22,14 @@ sections:
     type: section_content
     title: O nama
     content: >
-      Kod nas ćete naći knige vezane za naučno-popularnu psihologiju, psihijatriju i neuropsihijatriju. Sve naslove biramo sa velikom pažnjom. Vodimo računa da naši autori budu prestižni u ovim oblastima, a da njihove knjige budu komunikativne sa čitaocima.
-      Naš tim, stalno zaposleni i spoljni saradnici, imaju dovoljno iskustva i neophodnog obrazovanja za ovaj posao.
+      Kod nas ćete naći knige vezane za naučno-popularnu psihologiju,
+      psihijatriju i neuropsihijatriju. Sve naslove biramo sa velikom pažnjom.
+      Vodimo računa da naši autori budu prestižni u ovim oblastima, a da njihove
+      knjige budu komunikativne sa čitaocima.
+
+
+      Naš tim, stalno zaposleni i spoljni saradnici, imaju dovoljno iskustva i
+      neophodnog obrazovanja za ovaj posao.
     actions:
       - label: Kontakt
         url: /contact
