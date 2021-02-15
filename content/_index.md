@@ -33,7 +33,7 @@ sections:
     title: NAJNOVIJE
     posts_number: 4
     actions:
-      - label: View Blog
+      - label: Vidi sve
         url: blog/index.html
         style: button
 layout: advanced
