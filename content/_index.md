@@ -8,6 +8,14 @@ sections:
     content: |
       Naš moto i naša poruka
     actions: []
+  - section_id: recent-posts
+    type: section_posts
+    title: NAJNOVIJE
+    posts_number: 4
+    actions:
+      - label: kompletna ponuda
+        url: blog/index.html
+        style: button
   - section_id: about
     type: section_content
     title: O nama
@@ -16,14 +24,6 @@ sections:
     actions:
       - label: Kontakt
         url: /contact
-        style: button
-  - section_id: recent-posts
-    type: section_posts
-    title: NAJNOVIJE
-    posts_number: 4
-    actions:
-      - label: kompletna ponuda
-        url: blog/index.html
         style: button
 layout: advanced
 ---
