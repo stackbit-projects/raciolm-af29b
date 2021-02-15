@@ -5,11 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: Izdavačka kuća RACIO
-    content: |+
-      Naš motiv je da vam učinimo dostupnim knjige koje ćete voleti, koje će 
-      proširivati vaša znanja, koje će vam pomagati, knjige sa kojim ćete se 
-      družiti i koje ćete rado poklanjati
-
+    content: |
+      Naš motiv je da vam učinimo dostupnim knjige koje ćete voleti, koje će
+      proširivati vaša znanja, koje će vam pomagati, knjige sa kojim ćete se
+      družiti i koje ćete rado poklanjati.
     actions: []
   - section_id: recent-posts
     type: section_posts
