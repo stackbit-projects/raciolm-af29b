@@ -5,7 +5,6 @@ params:
   layout_style: overflow
   palette: blue
   header:
-    title: RACIO
     profile_img: images/cropped-Net-Logo_w.jpg
     profile_img_alt: Author avatar
     background: dark
