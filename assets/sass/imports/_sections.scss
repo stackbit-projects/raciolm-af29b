@@ -54,7 +54,11 @@
 
 /* About section */
 .block-about {
-
+.block-content {
+    font-size: 1.33333em;
+    line-height: 1.5;
+  }
+}
 
 @media only screen and (max-width: 1000px) {
   .block {
