@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
-    content: Da bi ste stupili u kontakt sa nama molimo vas da popunite polja:
+    content: Da bi ste stupili u kontakt sa nama molimo vas da popunite polja
     form_id: contactForm
     form_action: /thank-you
     form_fields:
