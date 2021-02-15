@@ -283,7 +283,7 @@
     .avatar {
       border-width: 1px;
       box-shadow: 0 0 1px 1px rgba(_palette(accent),.2);
-      object-fit: contain;
+      object-fit: cover;
       height: 100px;
       width: 100px;
     }
