@@ -1,5 +1,5 @@
 ---
-title: Hiking The Grand Canyon
+title: Kniga 3
 excerpt: Kratak opis knjige 3 u jednoj do dve rečenice
 date: '2019-03-10'
 thumb_img_path: images/8.jpg
