@@ -21,7 +21,7 @@ sections:
   - section_id: about
     type: section_content
     title: O nama
-    content: >
+    content: |
       Kod nas ćete naći knige vezane za naučno-popularnu psihologiju, 
 
       psihijatriju i neuropsihijatriju. Sve naslove biramo sa velikom pažnjom.
