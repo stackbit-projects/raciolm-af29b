@@ -21,7 +21,7 @@ params:
       - label: autori
         url: /style-guide/
         style: link
-      - label: About
+      - label: o nama
         url: /about/
         style: link
       - label: Contact
