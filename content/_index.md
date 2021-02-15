@@ -22,9 +22,7 @@ sections:
     type: section_content
     title: O nama
     content: |
-      Kod nas ćete naći knige vezane za naučno-popularnu psihologiju, 
-
-      psihijatriju i neuropsihijatriju. Sve naslove biramo sa velikom pažnjom.
+      Kod nas ćete naći knige vezane za naučno-popularnu psihologiju, psihijatriju i neuropsihijatriju. Sve naslove biramo sa velikom pažnjom.
 
       Vodimo računa da naši autori budu prestižni u ovim oblastima, a da 
 
