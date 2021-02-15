@@ -61,6 +61,12 @@
 
 .site-title {
   color: _palette(secondary);
+    -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
   font-size: 1.11111rem;
   font-weight: bold;
   line-height: 1;
