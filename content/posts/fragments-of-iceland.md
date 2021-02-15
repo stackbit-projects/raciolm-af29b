@@ -1,6 +1,6 @@
 ---
 title: Knjiga 1
-excerpt: Kratak opis knjige 1 u 1-2 rečenice
+excerpt: Kratak opis knjige 1 u jednoj do dve rečenice
 date: '2019-03-27'
 thumb_img_path: images/7.jpg
 thumb_img_alt: Icelandic horses
