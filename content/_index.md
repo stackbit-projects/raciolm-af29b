@@ -37,7 +37,7 @@ sections:
     actions:
       - label: Kontakt
         url: /contact
-        style: button
+        style: link
     image: images/cropped-bicycle_head.jpg
 layout: advanced
 ---
