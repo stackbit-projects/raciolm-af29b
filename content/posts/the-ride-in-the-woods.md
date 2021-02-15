@@ -1,5 +1,5 @@
 ---
-title: The Ride In The Woods
+title: Kniga 3
 subtitle: A cautionary tale about riding
 excerpt: Kratak opis knjige 4 u jednoj do dve rečenice
 date: '2018-01-23'
