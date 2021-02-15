@@ -12,7 +12,7 @@ params:
     background: dark
     has_nav: true
     nav_links:
-      - label: Home
+      - label: POčetna
         url: /
         style: link
       - label: Blog
