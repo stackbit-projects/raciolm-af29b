@@ -25,5 +25,6 @@ sections:
       - label: Kontakt
         url: /contact
         style: button
+    image: images/cropped-bicycle_head.jpg
 layout: advanced
 ---
