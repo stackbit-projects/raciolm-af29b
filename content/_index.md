@@ -7,14 +7,7 @@ sections:
     title: Izdavačka kuća RACIO
     content: |
       Naš moto i naša poruka
-    actions:
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        icon_class: lorem-ipsum
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
   - section_id: about
     type: section_content
     title: O nama
