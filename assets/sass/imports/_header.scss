@@ -189,6 +189,7 @@
       height: 2em;
       line-height: 2em;
       width: 2em;
+      display: flex;
   
       &:hover {
         background: _palette(accent);
