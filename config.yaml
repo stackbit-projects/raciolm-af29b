@@ -7,7 +7,7 @@ params:
   header:
     title: RACIO
     tagline: IZDAVAČKA KUĆA
-    profile_img: images/avatar.png
+    profile_img: images/cropped-Net-Logo_w.jpg
     profile_img_alt: Author avatar
     background: dark
     has_nav: true
